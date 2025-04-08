@@ -12,7 +12,7 @@ AndroRAT is a tool designed to give the control of the android system remotely a
 
 ## Screenshots
 
-![AndroRAT](Screenshots/5.jpg "AndroRAT in action")
+![AndroRAT](Screnshots/5.jpg "AndroRAT in action")
 ## Features of AndroRAT 
 * Full persistent backdoor
 * ~~Fully undetectable by any antivirus scanner [VirusTotal](https://www.virustotal.com/gui/file/e900b5d37ad8c8f79ca000b148253af04696a85fdfc245861cfb226dd86562df/detection)~~
